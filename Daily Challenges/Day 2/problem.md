@@ -12,8 +12,8 @@ Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-> `Test Case - 1 : nums = [3,6,8,3,4], target = 11`
+> `Test Case - 1 : nums = [3,6,8,3,4], target = 11, Expected Output = [0,2]`
 >
-> `Test Case - 2 : nums = [3,2,4], target = 6`
+> `Test Case - 2 : nums = [3,2,4], target = 6, Expected Output = [1,2]`
 
 - You may assume that each input would have exactly one solution, and you may not use the same element twice.
