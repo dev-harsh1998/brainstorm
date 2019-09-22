@@ -32,3 +32,14 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 #### Follow up:
 
 - Could you solve it without converting the integer to a string?
+
+> Test Cases
+
+```
+INPUT = 123         | EXPECTED = 321
+INPUT = 1534236469  | EXPECTED = 0
+INPUT = -2147483648 | EXPECTED = 0
+INPUT = 563847412   | EXPECTED = 214748365
+INPUT = 1463847412  | EXPECTED = 0
+INPUT = -201        | -102
+```

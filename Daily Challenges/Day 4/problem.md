@@ -4,7 +4,7 @@
 
 - Determine the minimum number of times _INPUT 1_ has to repeat such that _INPUT 2_ become substring of it.
 
-- Return an Integer. ( -1 ) If so such solution possible.
+- Return an Integer. ( -1 ) If no such solution possible.
 
 > Example 1 :
 
