@@ -29,6 +29,6 @@ Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 ```
 
-> Follow up:
+#### Follow up:
 
 - Could you solve it without converting the integer to a string?
