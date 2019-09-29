@@ -1,4 +1,4 @@
-# Day - 4 (21-Sept 2019)
+# Day - 4
 
 ## Problem
 

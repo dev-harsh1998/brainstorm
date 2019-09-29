@@ -1,4 +1,4 @@
-# Day - 3 (20-Sept 2019)
+# Day - 3
 
 ## Problem : Palindrome Number
 

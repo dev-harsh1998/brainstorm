@@ -1,4 +1,4 @@
-# Day - 2 (19-Sept 2019)
+# Day - 2
 
 ## Problem : TwoSum
 
