@@ -4,7 +4,7 @@
 
 - Return the number in fibonacci series at given input point.
 
-> Series : 1 1 2 3 5 8 ... (n+1 + n+2)
+> Series : 1 1 2 3 5 8 ... (n-1 + n-2)
 
 > Example 1 :
 
