@@ -9,13 +9,9 @@ const dpFib = (n, memo) => {
   if (memo[n] != null) {
     result = memo[n];
   }
-  if (n === 0) {
-    result = 0;
-    memo[n] = result;
-  } else if (n === 1 || n === 2) {
-    result = 1;
-    memo[n] = result;
-  } else {
+  if (n === 0) result = 0;
+  else if (n === 1 || n === 2) memo[n] = (result = 1);
+  else {
     result = dpFib(n - 1, memo) + dpFib(n - 2, memo);
     memo[n] = result;
   }
