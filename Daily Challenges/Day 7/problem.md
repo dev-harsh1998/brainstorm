@@ -2,7 +2,7 @@
 
 ## Problem : Fibonacci
 
-- Print Fibonacci series till the given input.
+- Return the number in fibonacci series at given input point.
 
 > Series : 1 1 2 3 5 8 ... (n+1 + n+2)
 
@@ -10,14 +10,14 @@
 
 ```
 INPUT 1 : 12
-OUTPUT  : 1 1 2 3 5 8 13 21 34 55 89 144
+OUTPUT  : 144
 ```
 
 > Example 2 :
 
 ```
-INPUT 1 : 6
-OUTPUT  : 1 1 2 3 5 8
+INPUT 1 : 5
+OUTPUT  : 5
 ```
 
 > Follow :
