@@ -1,18 +1,12 @@
-const wordsRev = str => {
-  let arr = str.split(" ");
-  let rev = "";
-  arr.forEach(element => {
-    rev =
-      rev +
-      element
-        .split("")
-        .reverse()
-        .join("") +
-      " ";
-  });
+const reverse = str => {
+  let arr = str.split("");
+  let output = [];
+  for (let i = arr.length - 1; i >= 0; i--) output.push(arr[i]);
 
-  return rev;
+  arr = output.join("").split(" ");
+  output = [];
+  for (let i = arr.length - 1; i >= 0; i--) output.push(arr[i]);
+  return output.join(" ");
 };
 
-console.log(wordsRev("my name is potato"));
-console.log(wordsRev("lorem ipsum enim nec dui nunc mattis"));
+console.log(reverse("My name is potato"));

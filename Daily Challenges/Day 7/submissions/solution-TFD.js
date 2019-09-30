@@ -37,8 +37,11 @@ const printSeries = (n, memo) => {
   for (let i = 1; i < memo.length; i++) {
     str += memo[i] + " ";
   }
-  return str;
+  return {
+    str,
+    num
+  };
 };
 
 let newMemo = [];
-console.log(printSeries(12, newMemo));
+console.log(printSeries(12, newMemo).str);
