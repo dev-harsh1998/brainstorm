@@ -1,4 +1,6 @@
 # Day - 4
+> > Difficulty : <span href="#" style="color:white;background-color:#5cb85c;padding:5px;border-radius:5px"> Easy </span>
+
 
 ## Problem
 

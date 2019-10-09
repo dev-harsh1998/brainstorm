@@ -1,10 +1,13 @@
 # Day - 7
+> > Difficulty : <span href="#" style="color:white;background-color:#5cb85c;padding:5px;border-radius:5px"> Easy </span>
 
 ## Problem : Fibonacci
 
-- Return the number in fibonacci series at given input point.
+> Return the number in fibonacci series at given input point.
 
-> Series : 1 1 2 3 5 8 ... (n-1 + n-2)
+ - Series : 1 1 2 3 5 8 ... (n-1 + n-2)
+
+
 
 > Example 1 :
 
