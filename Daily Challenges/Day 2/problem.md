@@ -1,7 +1,7 @@
 # Day - 2
-> > Difficulty : <span href="#" style="color:white;background-color:#5cb85c;padding:5px;border-radius:5px"> Easy </span>
 
 ## Problem : TwoSum
+<img src="../.assets/easy.png" height="30px">
 
 - Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 

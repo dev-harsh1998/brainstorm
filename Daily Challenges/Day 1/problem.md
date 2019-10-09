@@ -1,8 +1,7 @@
 # Day - 1
-> > Difficulty : <span href="#" style="color:white;background-color:#5cb85c;padding:5px;border-radius:5px"> Easy </span>
-
 
 ## Problem :
+<img src="../.assets/easy.png" height="30px">
 
 - Take 2D matrix as input
 

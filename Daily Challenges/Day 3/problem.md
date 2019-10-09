@@ -1,7 +1,7 @@
 # Day - 3
-> > Difficulty : <span href="#" style="color:white;background-color:#5cb85c;padding:5px;border-radius:5px"> Easy </span>
 
 ## Problem : Palindrome Number
+<img src="../.assets/easy.png" height="30px">
 
 - Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
 

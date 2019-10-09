@@ -1,7 +1,7 @@
 # Day - 7
-> > Difficulty : <span href="#" style="color:white;background-color:#5cb85c;padding:5px;border-radius:5px"> Easy </span>
 
 ## Problem : Fibonacci
+<img src="../.assets/easy.png" height="30px">
 
 > Return the number in fibonacci series at given input point.
 

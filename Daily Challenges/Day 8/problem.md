@@ -1,8 +1,7 @@
 # Day - 8
-> > Difficulty : <span href="#" style="color:white;background-color:#5cb85c;padding:5px;border-radius:5px"> Easy </span>
 
 ## Problem : Merge Two Sorted Lists
-
+<img src="../.assets/easy.png" height="30px">
 
 > Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
 

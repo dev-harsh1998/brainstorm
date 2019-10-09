@@ -1,8 +1,7 @@
 # Day - 4
-> > Difficulty : <span href="#" style="color:white;background-color:#5cb85c;padding:5px;border-radius:5px"> Easy </span>
-
 
 ## Problem
+<img src="../.assets/easy.png" height="30px">
 
 - Determine the minimum number of times _INPUT 1_ has to repeat such that _INPUT 2_ become substring of it.
 
