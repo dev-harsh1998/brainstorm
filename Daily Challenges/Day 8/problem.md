@@ -3,7 +3,7 @@
 ## Problem : Merge Two Sorted Lists
 <img src="../.assets/easy.png" height="30px">
 
-> Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+> Merge two sorted lists and return it as a new list. The new list should be made by splicing together the elements of the first two lists.
 
 
 
