@@ -1,6 +1,6 @@
 # Day - 9
 
-## Problem : Merge Two Sorted Lists
+## Problem : Pattern Design
 
 <img src="../.assets/easy.png" height="30px">
 
