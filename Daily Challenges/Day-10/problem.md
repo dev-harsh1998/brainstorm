@@ -1,6 +1,6 @@
 # Day - 10
 
-## Problem : Merge Two Sorted Lists
+## Problem : Palindrome of String.
 
 <img src="../.assets/easy.png" height="30px">
 
