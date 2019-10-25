@@ -37,10 +37,10 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 > Test Cases
 
 ```
-INPUT = 123         | EXPECTED = 321
-INPUT = 1534236469  | EXPECTED = 0
-INPUT = -2147483648 | EXPECTED = 0
-INPUT = 563847412   | EXPECTED = 214748365
-INPUT = 1463847412  | EXPECTED = 0
-INPUT = -201        | -102
+INPUT = 123         | EXPECTED = false
+INPUT = -21766712   | EXPECTED = false
+INPUT = 56966965    | EXPECTED = true
+INPUT = 563847412   | EXPECTED = false
+INPUT = 145262541   | EXPECTED = true
+INPUT = 202         | EXPECTED = true
 ```
