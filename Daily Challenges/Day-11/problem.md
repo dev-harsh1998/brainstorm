@@ -1,4 +1,4 @@
-# Day - 10
+# Day - 11
 
 ## Problem : Find the duplicates.
 
