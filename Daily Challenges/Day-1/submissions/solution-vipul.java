@@ -56,7 +56,13 @@ class solutionDay1 {
         System.out.println("");
         System.out.println("Sum of left diagonal: " + sumLeftDiagonal);
         System.out.println("Sum of right diagonal: " + sumRightDiagonal);
-        System.out.println("Subtraction of sum of left and right diagonals: " + (sumLeftDiagonal - sumRightDiagonal));
 
+        // Check which diagonal is greater and print the answer accordingly as the question says "Answer should always be >= 0"
+        if (sumLeftDiagonal > sumRightDiagonal) {
+            System.out.println("Subtraction of sum of left and right diagonals: " + (sumLeftDiagonal - sumRightDiagonal));
+        }
+        else{
+            System.out.println("Subtraction of sum of left and right diagonals: " + (sumRightDiagonal - sumLeftDiagonal));
+        }
     }
 }
