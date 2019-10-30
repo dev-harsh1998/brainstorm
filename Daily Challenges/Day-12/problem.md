@@ -16,11 +16,15 @@ INPUT  : 4,6,7,2,7
 
 Print(array_size)
 OUTPUT : 5
+Print(array)
+OUTPUT : [4,6,7,2,7]
 
 INPUT 2 : 2,5,7
 
 Print(array_size)
 OUTPUT  : 10
+Print(array)
+OUTPUT : [4,6,7,2,7,2,5,7]
 ```
 
 > - Hint : If Array is full make new array of 2n Size and duplicate the array.
