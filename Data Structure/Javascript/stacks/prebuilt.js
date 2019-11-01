@@ -3,11 +3,11 @@
 
 // pre-built functions
 
-// example trough palindrome of string. 
+// example trough palindrome of string.
 
 var letters = [];
-var word = "lmao";
 
+var word = "racecar";
 var revWord = "";
 
 for (let i = 0; i < word.length; i++) {
@@ -18,6 +18,4 @@ for (let i = 0; i < word.length; i++) {
   revWord += letters.pop(word[i]);
 }
 
-word === revWord
-  ? console.log("It's Palindrome")
-  : console.log("It's not palindrome");
+console.log(revWord === word ? "It's Palindrome" : "It's not palindrome");

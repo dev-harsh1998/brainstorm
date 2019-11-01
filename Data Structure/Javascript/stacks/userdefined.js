@@ -38,3 +38,19 @@ let Stack = function() {
     return this.storage;
   };
 };
+
+// example trough palindrome of string
+let letters = new Stack();
+
+let word = "racecar";
+let revWord = "";
+
+for (let i = 0; i < word.length; i++) {
+  letters.push(word[i]);
+}
+
+for (let i = 0; i < word.length; i++) {
+  revWord += letters.pop();
+}
+
+console.log(revWord === word ? "It's Palindrome" : "It's not palindrome");
