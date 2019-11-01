@@ -1,8 +1,9 @@
 // Stacks
+// functions : push, pop, peek, size
 
-// functions : push, pop, peek, length
+// pre-built functions
 
-// prebuilt
+// example trough palindrome of string. 
 
 var letters = [];
 var word = "lmao";
