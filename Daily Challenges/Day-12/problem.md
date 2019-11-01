@@ -21,7 +21,9 @@ Print(array)
 OUTPUT : [4,6,7,2,7]
 
 ```
+
 ---
+
 ```
 INPUT 2 : 2,5,7
 
